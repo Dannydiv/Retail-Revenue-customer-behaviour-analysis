@@ -1,7 +1,6 @@
-# Retail-Revenue-customer-behaviour-analysis
+📊 Retail Sales Performance & Customer Value Intelligence Analysis
 Retail sales analysis using Excel Power Pivot and DAX to uncover customer segmentation and revenue insights.
 
-📊 Retail Sales Performance & Customer Value Intelligence Analysis
 📌 Project Overview
 
 This project analyzes retail transactional data to evaluate revenue performance, customer value, and demographic purchasing behavior using Excel (Power Query + Power Pivot + DAX).
