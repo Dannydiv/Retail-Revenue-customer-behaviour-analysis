@@ -1,13 +1,13 @@
-📊 Retail Sales Performance & Customer Value Intelligence Analysis
-Retail sales analysis using Excel Power Pivot and DAX to uncover customer segmentation and revenue insights.
+## 📊 Retail Sales Performance & Customer Value Intelligence Analysis
+### Retail sales analysis using Excel Power Pivot and DAX to uncover customer segmentation and revenue insights.
 
-📌 Project Overview
+📌 ### Project Overview
 
 This project analyzes retail transactional data to evaluate revenue performance, customer value, and demographic purchasing behavior using Excel (Power Query + Power Pivot + DAX).
 
 The objective was to transform raw transaction-level data into actionable business intelligence that supports strategic decision-making across marketing, customer retention, and revenue optimization.
 
-🎯 Business Objectives
+### 🎯 Business Objectives
 
 This analysis answers the following key questions:
 
@@ -21,7 +21,7 @@ Is revenue concentrated among specific customer groups?
 
 How do sales perform across months and weekdays?
 
-🗂 Dataset Overview
+### 🗂 Dataset Overview
 
 The dataset contains transaction-level retail sales data with the following fields:
 
@@ -38,7 +38,7 @@ Price per Unit	Unit price
 Total Amount	Transaction revenue (Quantity × Price per Unit)
 
 Data Modeling & Methodology
-🔹 Data Preparation
+### 🔹 Data Preparation
 
 Data cleaning and transformation using Power Query
 
@@ -46,8 +46,8 @@ Creation of derived Age Group segmentation
 
 Structured data modeling using Power Pivot
 
-📊 Key Findings
-🔹 Revenue Distribution by Age Group
+### 📊 Key Findings
+#### 🔹 Revenue Distribution by Age Group
 
 Millennials: 34%
 
@@ -59,7 +59,7 @@ Boomers: 10%
 
 Millennials and Gen X account for over two-thirds of total revenue, indicating moderate revenue concentration.
 
-🔹 Average Order Value (AOV)
+#### 🔹 Average Order Value (AOV)
 
 Gen Z records the highest AOV ($504), suggesting stronger per-transaction spending.
 
@@ -67,7 +67,7 @@ Gen X drives revenue primarily through transaction volume.
 
 Boomers show lower purchase frequency but stable order value.
 
-🔹 Category Performance
+#### 🔹 Category Performance
 
 Electronics generates the highest total revenue.
 
@@ -77,11 +77,11 @@ Beauty shows stronger affinity among younger customers.
 
 Gen Z demonstrates a balanced purchasing pattern across categories.
 
-🔹 Temporal Trends
+#### 🔹 Temporal Trends
 
 Sales performance varies across months and weekdays, providing insights for campaign timing and operational planning.
 
-💡 Analytical Insights
+### 💡 Analytical Insights
 
 Revenue is concentrated among Millennials and Gen X.
 
@@ -93,7 +93,7 @@ Balanced gender revenue contribution suggests broad product appeal.
 
 Segment-level insights can drive targeted marketing strategy.
 
-🚀 Strategic Recommendations
+### 🚀 Strategic Recommendations
 
 Strengthen retention strategies for Millennials and Gen X.
 
@@ -105,7 +105,7 @@ Diversify engagement strategies to reduce revenue concentration risk.
 
 Optimize inventory and campaign timing using temporal sales insights.
 
-📈 Dashboard Features
+### 📈 Dashboard Features
 
 Revenue by Age Group (Clustered Column)
 
@@ -121,7 +121,7 @@ Dynamic DAX-based tooltip insights
 
 Dual-axis combo visualization
 
-🛠 Tools & Skills Demonstrated
+### 🛠 Tools & Skills Demonstrated
 
 Excel Power Query (ETL)
 
@@ -137,7 +137,7 @@ Context Handling in DAX
 
 Business Insight Communication
 
-📌 Business Value Delivered
+### 📌 Business Value Delivered
 
 This project demonstrates the ability to:
 
